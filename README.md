@@ -30,6 +30,6 @@ Windows 11 Pro host running Hyper-V, with four VMs on an isolated NAT network:
 
 ## Evidence
 
-All evidence is indexed in [evidence-register.csv](evidence/evidence-register.csv) and organized by control family. Each item includes a timestamped artifact and an evidence note documenting objective, method, results, and limitations.
+All evidence is indexed in [evidence-register.csv](/evidence-register.csv) and organized by control family. Each item includes a timestamped artifact and an evidence note documenting objective, method, results, and limitations.
 
 **Example:** [SI-7-001](evidence/SI/SI-7-001_evidence-note_2026-09-30.md) covers SHA-256 integrity verification of all installation media against vendor and community-published checksums, with live source retrieval and documented limitations.
