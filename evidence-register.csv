@@ -1,2 +1,3 @@
 Evidence ID,Control,Date,Description,Artifacts
-SI-7-001,SI-7,2026-09-30,SHA-256 integrity verification of all lab OS installation ISOs,SI-7_ISO-hash-verification_2026-09-30.png; SI-7-001_evidence-note_2026-09-30.md
+SI-7-001,SI-7,2026-09-30,SHA-256 integrity verification of all lab OS installation ISOs,SI-7-001_ISO-hash-verification_2026-09-30.png; SI-7-001_evidence-note_2026-09-30.md
+SC-7-001,SC-7,2026-10-06,Isolated lab network (internal switch and NAT) established and verified with host VPN active,SC-7-001_lab-network-boundary_2026-10-06.png; SC-7-001_evidence-note_2026-10-06.md
